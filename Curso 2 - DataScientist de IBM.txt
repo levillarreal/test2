@@ -1,0 +1,9 @@
+Data visualization tools - integrated code (no necesitas programar)
+*KNIME (se puede programar en R / python y apache spark)
+*Orange
+*Hue
+
+*Pycharm como ambiente de desarrollo? (operating system like anaconda, spyder, rstudio)
+
+For data integration
+*Spark sql
